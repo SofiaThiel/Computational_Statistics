@@ -1,5 +1,5 @@
 # Computational_Statistics
-Here you can see the project of the course Computational Statistics of UCR. 
+Here you can see the project of the course Computational Statistics of UCR and some of the homeworks. 
 
 The project is in spanish.
 
